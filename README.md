@@ -1,3 +1,5 @@
+This repository has been moved to the [CommCareHQ documentation](https://github.com/dimagi/commcare-hq/blob/master/docs/).
+
 # Dimagi JavaScript Guide
 
 Dimagi's internal JavaScript guide for use in the CommCare HQ project
